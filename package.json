@@ -1,0 +1,14 @@
+{
+  "name": "tutorial_cypress",
+  "version": "1.0.0",
+  "description": "belajar cypress untuk pemula",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "fredy siswanto",
+  "license": "ISC"
+}
